@@ -10,3 +10,6 @@
 // const number = 0
 // const convertedNumber = number.toString();
 // result is that 0 === "0"
+
+
+// almost 5. Pretty much everything I've done or tried to do has been in a devtool console. I have a direction, but I have no work to show for it. And I'm not sure it's the right direction to go in either.
